@@ -1,0 +1,6 @@
+grant_id,mock_funder,funder_budget_category,request_amount_usd,currency,proposed_start,proposed_end,planning_assumption,data_status
+VAL-AP-04,Validation Funder - South,Program personnel and benefits,20000.00,USD,2027-01-01,2027-12-31,Proposed allocation only; subject to funder review and approval,Synthetic application budget; not an award
+VAL-AP-04,Validation Funder - South,"Mentoring, screening, training and supervision",9000.00,USD,2027-01-01,2027-12-31,Proposed allocation only; subject to funder review and approval,Synthetic application budget; not an award
+VAL-AP-04,Validation Funder - South,Family counseling and caregiver support,7500.00,USD,2027-01-01,2027-12-31,Proposed allocation only; subject to funder review and approval,Synthetic application budget; not an award
+VAL-AP-04,Validation Funder - South,School safety and mental health workshops,8500.00,USD,2027-01-01,2027-12-31,Proposed allocation only; subject to funder review and approval,Synthetic application budget; not an award
+VAL-AP-04,Validation Funder - South,"Evaluation, data management and reporting",5000.00,USD,2027-01-01,2027-12-31,Proposed allocation only; subject to funder review and approval,Synthetic application budget; not an award

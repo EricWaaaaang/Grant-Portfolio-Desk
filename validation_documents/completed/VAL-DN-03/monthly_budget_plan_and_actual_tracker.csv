@@ -1,0 +1,61 @@
+Month,Project phase,Budget category,Planned budget (USD),Actual expense (USD),Variance: planned minus actual (USD),Notes
+2025-01,Partner readiness and staff orientation,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-02,Outreach and family enrollment,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-03,Program launch,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-04,Mentoring and workshops,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-05,Mentoring and family support,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-06,Midyear review,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-07,Program delivery,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-08,Program delivery,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-09,School and family engagement,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-10,Closeout preparation,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-11,Outcome review,Program personnel and benefits,2833.33,2708.33,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-12,Final reporting,Program personnel and benefits,2833.37,2708.37,125.00,Synthetic validation plan/actual; replace with source ledger
+2025-01,Partner readiness and staff orientation,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-02,Outreach and family enrollment,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-03,Program launch,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-04,Mentoring and workshops,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-05,Mentoring and family support,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-06,Midyear review,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-07,Program delivery,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-08,Program delivery,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-09,School and family engagement,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-10,Closeout preparation,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-11,Outcome review,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-12,Final reporting,"Mentoring, screening, training and supervision",1275.00,1218.75,56.25,Synthetic validation plan/actual; replace with source ledger
+2025-01,Partner readiness and staff orientation,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-02,Outreach and family enrollment,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-03,Program launch,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-04,Mentoring and workshops,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-05,Mentoring and family support,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-06,Midyear review,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-07,Program delivery,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-08,Program delivery,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-09,School and family engagement,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-10,Closeout preparation,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-11,Outcome review,Family counseling and caregiver support,1062.50,1015.62,46.88,Synthetic validation plan/actual; replace with source ledger
+2025-12,Final reporting,Family counseling and caregiver support,1062.50,1015.68,46.82,Synthetic validation plan/actual; replace with source ledger
+2025-01,Partner readiness and staff orientation,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-02,Outreach and family enrollment,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-03,Program launch,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-04,Mentoring and workshops,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-05,Mentoring and family support,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-06,Midyear review,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-07,Program delivery,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-08,Program delivery,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-09,School and family engagement,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-10,Closeout preparation,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-11,Outcome review,School safety and mental health workshops,1204.17,1151.04,53.13,Synthetic validation plan/actual; replace with source ledger
+2025-12,Final reporting,School safety and mental health workshops,1204.13,1151.06,53.07,Synthetic validation plan/actual; replace with source ledger
+2025-01,Partner readiness and staff orientation,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-02,Outreach and family enrollment,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-03,Program launch,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-04,Mentoring and workshops,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-05,Mentoring and family support,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-06,Midyear review,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-07,Program delivery,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-08,Program delivery,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-09,School and family engagement,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-10,Closeout preparation,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-11,Outcome review,"Evaluation, data management and reporting",708.33,677.08,31.25,Synthetic validation plan/actual; replace with source ledger
+2025-12,Final reporting,"Evaluation, data management and reporting",708.37,677.12,31.25,Synthetic validation plan/actual; replace with source ledger

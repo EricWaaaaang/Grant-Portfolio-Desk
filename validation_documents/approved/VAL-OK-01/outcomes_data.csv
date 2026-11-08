@@ -1,0 +1,5 @@
+grant_id,measure,target,synthetic_actual,unit,synthetic_source,measurement_date,data_status
+VAL-OK-01,Children enrolled,60,12,people,Validation fixture only,2026-11-08,Synthetic sample only; not measured or verified
+VAL-OK-01,Children completing 30 mentoring contacts,48,10,people,Validation fixture only,2026-11-08,Synthetic sample only; not measured or verified
+VAL-OK-01,Caregivers reached through family support,60,12,people,Validation fixture only,2026-11-08,Synthetic sample only; not measured or verified
+VAL-OK-01,School safety and mental health workshops delivered,12,2,workshops,Validation fixture only,2026-11-08,Synthetic sample only; not measured or verified

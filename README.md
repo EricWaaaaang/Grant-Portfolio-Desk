@@ -56,4 +56,3 @@ The summary workbook includes Dashboard, Portfolio, Category Spend, Application 
 - Fiscal-year start month defaults to October when it cannot be identified. Set `fiscal_year_start_month` to `1`, `7`, or `10` in `funder_requirements.csv` for January, July, or October.
 - The default category alert threshold is 85%; categories above 110% are marked as significant overspends.
 - Validation grant records are fictional demonstration rows, not real awards or expenses.
-

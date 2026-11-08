@@ -1,0 +1,16 @@
+validation_id,grant_name,status,funder,annual_amount,current_quarter_budget,current_quarter_spend,total_to_date,work_progress,completed_on,scenario,special_note,data_status
+VAL-AP-01,Youth Mentor Cohort A,APPLYING,Validation Funder - North,60000,0,0,0,0.15,,Application drafting,Question responses in progress; no award has been made.,Synthetic validation record
+VAL-AP-02,Family Counseling Cohort B,APPLYING,Validation Funder - East,75000,0,0,0,0.35,,Application drafting,Question responses in progress; no award has been made.,Synthetic validation record
+VAL-AP-03,Safe Schools Cohort C,APPLYING,Validation Funder - Central,90000,0,0,0,0.50,,Application in review,No award or eligible spending yet.,Synthetic validation record
+VAL-AP-04,Youth Wellness Cohort D,APPLYING,Validation Funder - South,50000,0,0,0,0.70,,Application in review,No award or eligible spending yet.,Synthetic validation record
+VAL-AP-05,Family Resilience Cohort E,APPLYING,Validation Funder - West,120000,0,0,0,0.90,,Ready for submission,No award or eligible spending yet.,Synthetic validation record
+VAL-OK-01,Low Spend Mentoring Grant,APPROVED,Validation Funder - North,80000,20000,500,1800,0.20,,Low current-quarter use,Only 2.5% of the quarterly budget used; check the delivery schedule.,Synthetic validation record
+VAL-OK-02,Steady Counseling Grant,APPROVED,Validation Funder - East,60000,15000,6000,16000,0.45,,On-plan quarterly use,Current-quarter use is 40% of budget.,Synthetic validation record
+VAL-OK-03,Near Limit Schools Grant,APPROVED,Validation Funder - Central,100000,25000,23000,58000,0.70,,Near quarterly limit,Current-quarter use is 92% of budget; review remaining commitments.,Synthetic validation record
+VAL-OK-04,Slight Quarter Overrun Grant,APPROVED,Validation Funder - South,48000,12000,15600,34000,0.55,,Slight quarterly overspend,Current-quarter spending is 130% of budget; reconcile and document the variance.,Synthetic validation record
+VAL-OK-05,Severe Quarter Overrun Grant,APPROVED,Validation Funder - West,90000,22500,60000,84500,0.80,,Severe quarterly overspend,Current-quarter spending is 267% of budget; urgent bookkeeper review required.,Synthetic validation record
+VAL-DN-01,Completed Mentoring Grant,COMPLETED,Validation Funder - North,50000,0,0,48750,1.00,2025-06-30,Completed historical record,Final report filed; retain for history only.,Synthetic validation record
+VAL-DN-02,Completed Counseling Grant,COMPLETED,Validation Funder - East,72000,0,0,69000,1.00,2025-09-30,Completed historical record,Final report filed; retain for history only.,Synthetic validation record
+VAL-DN-03,Completed Schools Grant,COMPLETED,Validation Funder - Central,85000,0,0,81250,1.00,2025-12-31,Completed historical record,Final report filed; retain for history only.,Synthetic validation record
+VAL-DN-04,Completed Wellness Grant,COMPLETED,Validation Funder - South,64000,0,0,64000,1.00,2026-03-31,Completed historical record,Final report filed; retain for history only.,Synthetic validation record
+VAL-DN-05,Completed Family Support Grant,COMPLETED,Validation Funder - West,100000,0,0,96500,1.00,2026-06-30,Completed historical record,Final report filed; retain for history only.,Synthetic validation record

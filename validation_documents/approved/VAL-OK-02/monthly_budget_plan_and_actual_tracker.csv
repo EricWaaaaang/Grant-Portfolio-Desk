@@ -1,0 +1,61 @@
+Month,Project phase,Budget category,Planned budget (USD),Actual expense (USD),Variance: planned minus actual (USD),Notes
+2026-01,Partner readiness and staff orientation,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-02,Outreach and family enrollment,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-03,Program launch,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-04,Mentoring and workshops,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-05,Mentoring and family support,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-06,Midyear review,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-07,Program delivery,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-08,Program delivery,Program personnel and benefits,2000.00,444.44,1555.56,Synthetic validation plan/actual; replace with source ledger
+2026-09,School and family engagement,Program personnel and benefits,2000.00,444.48,1555.52,Synthetic validation plan/actual; replace with source ledger
+2026-10,Closeout preparation,Program personnel and benefits,2000.00,1560.00,440.00,Synthetic validation plan/actual; replace with source ledger
+2026-11,Outcome review,Program personnel and benefits,2000.00,840.00,1160.00,Synthetic validation plan/actual; replace with source ledger
+2026-12,Final reporting,Program personnel and benefits,2000.00,0.00,2000.00,Synthetic validation plan/actual; replace with source ledger
+2026-01,Partner readiness and staff orientation,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-02,Outreach and family enrollment,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-03,Program launch,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-04,Mentoring and workshops,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-05,Mentoring and family support,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-06,Midyear review,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-07,Program delivery,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-08,Program delivery,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-09,School and family engagement,"Mentoring, screening, training and supervision",900.00,200.00,700.00,Synthetic validation plan/actual; replace with source ledger
+2026-10,Closeout preparation,"Mentoring, screening, training and supervision",900.00,702.00,198.00,Synthetic validation plan/actual; replace with source ledger
+2026-11,Outcome review,"Mentoring, screening, training and supervision",900.00,378.00,522.00,Synthetic validation plan/actual; replace with source ledger
+2026-12,Final reporting,"Mentoring, screening, training and supervision",900.00,0.00,900.00,Synthetic validation plan/actual; replace with source ledger
+2026-01,Partner readiness and staff orientation,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-02,Outreach and family enrollment,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-03,Program launch,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-04,Mentoring and workshops,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-05,Mentoring and family support,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-06,Midyear review,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-07,Program delivery,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-08,Program delivery,Family counseling and caregiver support,750.00,166.67,583.33,Synthetic validation plan/actual; replace with source ledger
+2026-09,School and family engagement,Family counseling and caregiver support,750.00,166.64,583.36,Synthetic validation plan/actual; replace with source ledger
+2026-10,Closeout preparation,Family counseling and caregiver support,750.00,585.00,165.00,Synthetic validation plan/actual; replace with source ledger
+2026-11,Outcome review,Family counseling and caregiver support,750.00,315.00,435.00,Synthetic validation plan/actual; replace with source ledger
+2026-12,Final reporting,Family counseling and caregiver support,750.00,0.00,750.00,Synthetic validation plan/actual; replace with source ledger
+2026-01,Partner readiness and staff orientation,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-02,Outreach and family enrollment,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-03,Program launch,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-04,Mentoring and workshops,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-05,Mentoring and family support,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-06,Midyear review,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-07,Program delivery,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-08,Program delivery,School safety and mental health workshops,850.00,188.89,661.11,Synthetic validation plan/actual; replace with source ledger
+2026-09,School and family engagement,School safety and mental health workshops,850.00,188.88,661.12,Synthetic validation plan/actual; replace with source ledger
+2026-10,Closeout preparation,School safety and mental health workshops,850.00,663.00,187.00,Synthetic validation plan/actual; replace with source ledger
+2026-11,Outcome review,School safety and mental health workshops,850.00,357.00,493.00,Synthetic validation plan/actual; replace with source ledger
+2026-12,Final reporting,School safety and mental health workshops,850.00,0.00,850.00,Synthetic validation plan/actual; replace with source ledger
+2026-01,Partner readiness and staff orientation,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-02,Outreach and family enrollment,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-03,Program launch,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-04,Mentoring and workshops,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-05,Mentoring and family support,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-06,Midyear review,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-07,Program delivery,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-08,Program delivery,"Evaluation, data management and reporting",500.00,111.11,388.89,Synthetic validation plan/actual; replace with source ledger
+2026-09,School and family engagement,"Evaluation, data management and reporting",500.00,111.12,388.88,Synthetic validation plan/actual; replace with source ledger
+2026-10,Closeout preparation,"Evaluation, data management and reporting",500.00,390.00,110.00,Synthetic validation plan/actual; replace with source ledger
+2026-11,Outcome review,"Evaluation, data management and reporting",500.00,210.00,290.00,Synthetic validation plan/actual; replace with source ledger
+2026-12,Final reporting,"Evaluation, data management and reporting",500.00,0.00,500.00,Synthetic validation plan/actual; replace with source ledger

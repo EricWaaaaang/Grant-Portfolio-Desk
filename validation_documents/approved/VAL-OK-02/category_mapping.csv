@@ -1,0 +1,6 @@
+grant_id,quickbooks_category,funder_budget_category,mapping_rule,data_status
+VAL-OK-02,Payroll - Program,Program personnel and benefits,Direct one-to-one synthetic test mapping,Synthetic mapping; verify against ledger and award
+VAL-OK-02,Program Services - Mentoring,"Mentoring, screening, training and supervision",Direct one-to-one synthetic test mapping,Synthetic mapping; verify against ledger and award
+VAL-OK-02,Program Services - Family Support,Family counseling and caregiver support,Direct one-to-one synthetic test mapping,Synthetic mapping; verify against ledger and award
+VAL-OK-02,Program Services - School Workshops,School safety and mental health workshops,Direct one-to-one synthetic test mapping,Synthetic mapping; verify against ledger and award
+VAL-OK-02,Program Evaluation,"Evaluation, data management and reporting",Direct one-to-one synthetic test mapping,Synthetic mapping; verify against ledger and award
